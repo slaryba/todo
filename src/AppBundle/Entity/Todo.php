@@ -1,5 +1,5 @@
 <?php
-// hello
+// file tested - branch feature
 
 namespace AppBundle\Entity;
 
